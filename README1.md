@@ -66,6 +66,6 @@ Problem Statement:
 6:    Print all lines where the phone number is in the 408 area code.
 7:    Print all lines containing an uppercase letter, followed by four lowercase letters, a comma, a space, and one uppercase letter.
 8:    Print lines where the last name begins with K or k.
-9:    Print lines preceded by a line number where the salary is a six-figure number.
+9:    Print lines preceded by a line number where the salary is the six-figure number.
 10:   Print lines containing Lincoln or lincoln (remember that grep is insensitive to case).
 
